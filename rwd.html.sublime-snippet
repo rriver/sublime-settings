@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+【コード（HTML）】
+【コード見出し】 HTML-$0
+
+【コード終】
+]]></content>
+	<tabTrigger>tag</tabTrigger>
+	<description>RWD:HTML</description>
+</snippet>

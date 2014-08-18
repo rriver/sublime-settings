@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"disable_tab_abbreviations": true,
+	"font_face": "Source Code Pro",
+	"font_size": 13.0,
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"AdvancedNewFile",
+		"Goto-CSS-Declaration",
+		"MarkdownEditing",
+		"Vintage",
+		"SmartMarkdown",
+		"Markdown Preview"
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 2,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"word_wrap": "yes"
+}

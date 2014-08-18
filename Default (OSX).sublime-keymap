@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+right"], "command": "move_to", "args": { "to": "hardeol" } },
+	{ "keys": ["super+left"], "command": "move_to", "args": { "to": "hardbol" } },
+	{ "keys": ["ctrl+shift+d"], "command": "file_diff_menu" }
+]

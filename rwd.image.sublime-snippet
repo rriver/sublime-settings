@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+【図 $0】 (画像 $0.png)
+(キャプション)
+
+(キャプション終)
+]]></content>
+	<tabTrigger>tag</tabTrigger>
+	<description>RWD:図</description>
+</snippet>

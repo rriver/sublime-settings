@@ -1,0 +1,12 @@
+{
+	"snippets": {
+		"variables": {
+			"lang": "ja",
+			"locale": "ja-JP",
+			"charset": "UTF-8",
+			"indentation": "\t",
+			"newline": "\n"
+		}
+	},
+	"disable_completions": true
+}

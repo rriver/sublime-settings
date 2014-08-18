@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ColorPicker",
+		"Emmet",
+		"EncodingHelper",
+		"FileDiffs",
+		"FindKeyConflicts",
+		"Goto-CSS-Declaration",
+		"HTML5",
+		"HTMLAttributes",
+		"IndentGuides",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"Tag",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"WordCount"
+	]
+}

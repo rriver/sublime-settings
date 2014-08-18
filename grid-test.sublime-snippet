@@ -1,0 +1,37 @@
+<snippet>
+  <content><![CDATA[
+<div class="row">
+  <div class="three cols">
+    <p>3 cols</p>
+  </div>
+  <div class="nine cols">
+    <p>9 cols</p>
+  </div>
+</div>
+<div class="row">
+  <div class="four cols">
+    <p>4 cols</p>
+  </div>
+  <div class="eight cols">
+    <p>8 cols</p>
+  </div>
+</div>
+<div class="row">
+  <div class="five cols">
+    <p>5 cols</p>
+  </div>
+  <div class="seven cols">
+    <p>7 cols</p>
+  </div>
+</div>
+<div class="row">
+  <div class="six cols">
+    <p>6 cols</p>
+  </div>
+  <div class="six cols">
+    <p>6 cols</p>
+  </div>
+</div>
+]]></content>
+  <tabTrigger>grid-test</tabTrigger>
+</snippet>
